@@ -2,7 +2,7 @@
 A simple game for kids
 
 I make a Tom and Jerry concept.
-so, I used images in the GUI program.
+I used images in the GUI program.
 
 "src" folder includes all the java files.
 "res" folder includes all the image that I used.
